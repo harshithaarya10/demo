@@ -1,0 +1,7 @@
+claass b2
+{
+  public static vid main(String[] args)
+  {
+   System.out.println("word");
+  }
+}
